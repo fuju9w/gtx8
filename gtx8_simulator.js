@@ -1,6 +1,6 @@
 // Copyright (c) Microsoft. All rights reserved.
 // Licensed under the MIT license. See LICENSE file in the project root for full license information.
-// the  original version of the modified can be found @ https://github.com/Azure/azure-iot-sdk-node/blob/master/device/samples/remote_monitoring.js
+// the  original version of this modified can be found @ https://github.com/Azure/azure-iot-sdk-node/blob/master/device/samples/remote_monitoring.js
 
 'use strict';
 
